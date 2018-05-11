@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">newTourGuide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Riyadh_fragment">Riyadh</string>
+
+    <string name="rate">rate</string>
+    <string name="edge">2. EDGE OF THE WORLD
+Almost 90 km north of Riyadh </string>
+    <string name="masmak">1. VISIT AL MASMAK FORT
+Located in downtown Riyadh</string>
+    <string name="info">Riyadh, Arabic Al-Riyāḍ, city and capital of Saudi Arabia. The city’s name is derived from the plural of the Arabic rawḍah, meaning gardens or meadows, so named for a natural fertility provided by its location at the juncture of Wadis Ḥanīfah and Al-Baṭḥāʾ. The spectacular sight of Riyadh from the air, illuminated in the evening by city lights, is reminiscent of its eponymous meadows; a bright sea of lights dot the desert as if fluorescent flower gardens have suddenly blossomed among its dark contours.</string>
+    <string name="rest_one">Java time</string>
+    <string name="rate_one">8.6</string>
+    <string name="rest_tow">Dunkin dunats</string>
+    <string name="rate_tow">8.9</string>
+    <string name="rest_three">Mama noura</string>
+    <string name="rate_three">9.8</string>
+    <string name="rest_four">McDonald\'s</string>
+    <string name="rate_four">7.5</string>
+    <string name="rest_five">BurgerKing</string>
+    <string name="rate_five">6.4</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="event_one">1- MAY 02
+        American Express World Luxury Expo - Riyadh</string>
+    <string name="event_tow">2- MAY 20 Hiking Trip to Beyond the Edge by Riyadh Hike</string>
+    <string name="event_three">3- APR 22 Relationships Beyond Memberships- RIYADH</string>
+    <string name="event_four">4- MAY 01 Data Science Professional Certificate (DSPC)</string>
+    <string name="event_five">5- MAY 01 BigData Management Analytics - Riyadh</string>
+</resources>
